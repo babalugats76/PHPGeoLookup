@@ -4,7 +4,7 @@ This project shows you how to create a simple geo lookup form using PHP.  The fo
 
 #What you will learn
 
-You will learn how PHP can be used to perform powerful, useful tasks.  In particular, PHP can use web services to provide rich data to the web applications you build.
+You will learn how PHP can be used to perform powerful, useful tasks.  In particular, how PHP can use web services to provide rich data to the web applications you build.
 
 #Installation
 
