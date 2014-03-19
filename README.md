@@ -16,7 +16,7 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
 
 3. Open Dreamweaver
 
-4. Select and drag the files you extract from the archive into the 'Files' tab in Dreamweaver.  Make sure you are using your **wheatridgehighschool.net** site and that you are placing the files under the site's main directory using the 'Local View.'
+4. Select and drag the files you extracted from the archive into the 'Files' tab in Dreamweaver.  Make sure you are using your **wheatridgehighschool.net** site and that you are placing the files under the site's main directory using the 'Local View.'
 
 5. Save and Publish
     * Save the changes: **File->Save All**
