@@ -20,7 +20,7 @@ This is a 'Skeleton Project' which requires the following steps to get up and ru
 
 5. Save and Publish
     * Save the changes: **File->Save All**
-    * From Dreamweaver, **put** the project's files to your website
+    * From Dreamweaver, **put** the project's files (refer to diagram below) to your website
 ![What the contents of the project look like](http://static.colestock.com/images/php-geo-lookup-form-492x222.jpg "What the contents of the project look like in Dreamweaver")
 
 6. Test the Geo Lookup Form
